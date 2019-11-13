@@ -1,0 +1,16 @@
+{
+  "name": "todo_list",
+  "version": "1.0.0",
+  "description": "A TODO APP",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Harshit Mandada",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.10"
+  }
+}
